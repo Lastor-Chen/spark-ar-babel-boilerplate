@@ -1,0 +1,11 @@
+# distribution folder (webpack output path)
+sparkAR/scripts/
+
+# Spark AR auto TypeScript config
+tsconfig.json
+
+# VScode locale config
+.vscode/
+
+# Dependency modules
+node_modules/
